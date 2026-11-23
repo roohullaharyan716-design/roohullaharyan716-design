@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**roohullaharyan716-design/roohullaharyan716-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Roohullah Aryan 👋
 
-Here are some ideas to get you started:
+### Full-Stack Web Developer | Excel Automation Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building practical web applications, creating useful digital solutions, and solving business problems through technology.
+
+### 🛠️ Skills & Technologies
+
+- **Frontend:** HTML, CSS, JavaScript, React, TypeScript
+- **Tools:** Git, GitHub, VS Code
+- **Business Solutions:** Microsoft Excel, Advanced Formulas, Dashboards, Automation
+- **Other Skills:** Graphic Design, Data Management
+
+### 🚀 Projects
+
+- **Task Manager:** A simple task management application built with HTML, CSS, and JavaScript.
+- **TransferPro:** A money transfer management system project.
+
+### 🌱 Currently Learning
+
+- Improving my full-stack development skills
+- Git and GitHub workflows
+- Building practical software applications
+
+### 🎯 My Goal
+
+To build useful, reliable, and professional digital solutions through continuous learning and development.
